@@ -21,13 +21,17 @@ feature:
   icon_pack: fab
   name: Python/Pytorch/Pytorch-Lightning
 - description: 80%
-  icon: sensor
+  icon: google
   icon_pack: fab
   name: Tensorflow/keras
 - description: 80%
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description: 100%
+  icon: java
+  icon_pack: fab
+  name: Java
 
 
 # Uncomment to use emoji icons.
