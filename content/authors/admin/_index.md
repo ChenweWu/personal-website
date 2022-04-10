@@ -64,7 +64,12 @@ email: "chenweiwu@g.harvard.edu"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! I am Chenwei Wu, a first year Data Science Master's Student at Harvard Institute for Applied Computational Science. I am a currently a Research Assistant working in Dr. Pranav Rajpurkar's Medical AI Lab at Harvard Medical School focusing on self-supervised learning, transfer learning and multimodal learning; and a Research Assistant working in Dr. Bertrand Schneider's LIT (Learning, Innovation and Technology) Lab  Harvard Graduate School of Education focusing on gaze estimation and multi-modal learning analytics. I am also collaborating with Dr. Weiwei Pan at Data to Actionable Knowledge Lab on characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting.
 
+I am broadly interested in using self-supervised representation learning and multi-modal learning to advance medical solutions in a label-efficient and generalizable setting. Current projects I am working on includes 1) unsupervised learning for improving diagnosis from biomedical signals, 2) gaze estimation for mlutiple students in a real life lab, 3) data heterogeneity detection and mitigation.
+
+Previously, I worked at Credit Suisse in New York City as an intern for 3 months and a full-time analyst for one year. I served as developer & business analyst for Investment Banking Division, building Airflow automated data ETL pipelines and constructing a centralized Azure cloud data platform for bonds and credit default swaps. I also served as project manager for the PoC of a firm-wide chat platform that leverages NLP to assist sales & trading team to a competitive edge. During my internship I collected big data streams and performed deep learning time series predictions on stock trends.
+
+In May 2020, I received B.S. in Data Science and B.A. in Financial Economics from University of Rochester. During my undergraduate I worked with Dr. David Dodel-feder in using CV and NLP for identifying the etiology of socially impaired schizophrenia patients and worked with Dr. Huiwen Xu on using machine learning to predict risks for caregivers and nursing homes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
