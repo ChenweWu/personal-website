@@ -21,8 +21,8 @@ feature:
   icon_pack: fab
   name: Python/Pytorch/Pytorch-lightning
 - description: 80%
-  icon: sensor
-  icon_pack: fab
+  icon: chart-line
+  icon_pack: fas
   name:tensorflow/keras
 - description: 80%
   icon: chart-line
