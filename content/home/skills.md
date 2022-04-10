@@ -30,7 +30,7 @@ feature:
   name: Statistics
 - description: 80%
   icon: java
-  icon_pack: fab
+  icon_pack: fas
   name: Java
 
 # Uncomment to use emoji icons.
