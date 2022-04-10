@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: fa-python
+  icon: python
   icon_pack: fab
   name: Python/Pytorch/Pytorch-lightning
 - description: 80%
