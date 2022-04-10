@@ -17,7 +17,7 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: python
+  icon: fa-python
   icon_pack: fab
   name: Python/Pytorch/Pytorch-lightning
 - description: 80%
@@ -28,10 +28,7 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 80%
-  icon: java
-  icon_pack: fab
-  name: Java
+
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
