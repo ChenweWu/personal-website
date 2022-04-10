@@ -19,11 +19,11 @@ feature:
 - description: 100%
   icon: chart-line
   icon_pack: fas
-  name: Python/Pytorch/Pytorch-lightning
+  name: Python
 - description: 80%
   icon: chart-line
   icon_pack: fas
-  name:tensorflow/keras
+  name:tensorflow
 - description: 80%
   icon: chart-line
   icon_pack: fas
