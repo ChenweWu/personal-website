@@ -20,7 +20,10 @@ feature:
   icon: chart-line
   icon_pack: fas
   name: Statistics
-
+- description: 100%
+  icon: python
+  icon_pack: fab
+  name: Python
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
