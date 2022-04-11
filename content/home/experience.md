@@ -30,7 +30,7 @@ experience:
     location: Cambridge
     date_start: '2022-02-15'
     date_end: ''
-    description: >-
+    description: |2-
     * Characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting using bayesian neural networks.'
 
 
@@ -41,7 +41,7 @@ experience:
     location: Cambridge
     date_start: '2021-11-10'
     date_end: ''
-    description: >-
+    description: |2-
     * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto       learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error       by human experts. 
     
     * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
