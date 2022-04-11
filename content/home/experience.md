@@ -26,7 +26,7 @@ experience:
     company: Credit Suisse
     company_url: ''
     company_logo: cs
-    location: California
+    location: New York
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
