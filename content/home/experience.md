@@ -48,55 +48,7 @@ experience:
     
     • Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned         views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.'
     
-  - title: 'Research Assistant'
-    company: 'Harvard Graduate School of Education'
-    company_url: ''
-    company_logo: HGSE
-    location: Cambridge
-    date_start: '2021-10-01'
-    date_end: ''
-    description: '
-    • Develop real time 3D gaze detection (Gaze360) and facial recognition algorithms via Pytorch for Harvard Makerspace, reconstruct gaze predictions in a 3D space, and integrate the tracking system into the Multimodal learning analytics cloud data pipeline. 
-    
-    • Collect data of student behavior in Makerspace lab sessions by leveraging the Multimodal learning analytics pipeline, and perform analysis to understand social learning aspects like collaboration and student attention.'
-
-  - title: 'Analyst'
-    company: 'Credit Suisse'
-    company_url: ''
-    company_logo: cs
-    location: New York
-    date_start: '2020-07-01'
-    date_end: '2021-06-01'
-    description: '
-    • Served as developer & business analyst for Investment Banking Division, building Airflow automated data ETL pipelines and constructing a centralized Azure cloud      data platform for bonds and credit default swaps. 
-    
-    • Served as project manager for the PoC of a firm-wide chat platform that leverages NLP to assist sales & trading team to a competitive edge. 
-    
-    • Collected big data streams and performed deep learning time series predictions on stock trends.'
-    
-  - title: 'Research Assistant'
-    company: 'University of Rochester'
-    company_url: ''
-    company_logo: ur
-    location: Rochester
-    date_start: '2019-04-01'
-    date_end: '2021-08-30'
-    description: '
-   • Performed sentiment and topic analysis on text behavioral data in a functional neuroimaging study to better understand the relationship between brain functional connectivity and social anhedonia. 
-   • Applied machine vision techniques including semi-supervised CNNs, optical flow and open face, on video datasets to analyze group differences in nonverbal synchrony during social interactions among people with schizophrenia and controls. [3] Currently studying patterns of combinations of facial actions to evaluate the effect of oxytocin on patients' social abilities.'
-   
-      
-  - title: 'Research Assistant'
-    company: 'University of Rochester Medical Center'
-    company_url: ''
-    company_logo: ur
-    location: Rochester
-    date_start: '2019-05-01'
-    date_end: '2021-08-30'
-    description: '
-   • Utilized unsupervised machine learning algorithms to cluster nursing homes based on the percentage of residents with dementia, depression, and serious mental illness, and detected previously unknown patterns of resident case-mix and staffing in nursing homes. Predicted deficiency scores of nursing homes on a longitudinal basis with supervised learning algorithms. 
-   
-   • Developed text association and pattern mining algorithms to classify cancer therapies. Combined synthetic minority oversampling Technique (SMOTE) with supervised learning techniques to deal with unbalanced caregiver datasets and help clinicians identify potential mental and physical health risk factors for caregivers of the elder people. Implemented Local Interpretable Model-Agnostic Explanations (LIME) to give a non-black-box explanation for ML results in a clinical setting.'
+ 
 
 
 design:
