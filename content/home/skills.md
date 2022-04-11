@@ -19,7 +19,11 @@ feature:
 - description: 100%
   icon: python
   icon_pack: fab
-  name: Python/Pytorch/Pytorch-Lightning
+  name: Python
+- description: 100%
+  icon: python
+  icon_pack: fab
+  name: Pytorch/Pytorch-Lightning
 - description: 80%
   icon: google
   icon_pack: fab
@@ -32,7 +36,10 @@ feature:
   icon: java
   icon_pack: fab
   name: Java
-
+- description: 80%
+  icon: buffer
+  icon_pack: fab
+  name: SQL
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
