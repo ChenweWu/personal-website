@@ -1,17 +1,10 @@
 widget: experience
 headless: true  # This file represents a page section.
 
-# ... Put Your Section Options Here (title etc.) ...
 
-# Date format
-#   Refer to https://wowchemy.com/docs/customization/#date-format
 date_format: Jan 2006
 
-# Experiences.
-#   Add/remove as many `experience` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with `>-`.
+
 experience:
   - title: 'CEO'
     company: 'GenCoin'
@@ -42,11 +35,11 @@ experience:
     date_start: '2021-11-10'
     date_end: ''
     description: >-
-    Responsibilities include:
-    * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto       learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error       by human experts. 
-    
-    * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
-    
-    * Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned         views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.'
+        Responsibilities include:
+        * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially           learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error           by human experts. 
+
+        * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
+
+        * Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned         views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.'
     
  
