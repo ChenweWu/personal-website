@@ -33,7 +33,7 @@ experience:
         Responsibilities include:
         
         * Analysing
-        * Modelling
+        Modelling
         * Deploying
         
   - title: Professor of Semiconductor Physics
