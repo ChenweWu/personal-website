@@ -30,11 +30,11 @@ experience:
     date_start: '2021-01-01'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        Modelling
-        * Deploying
+    * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error by human experts. 
+    
+    * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
+    
+    * Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.
         
   - title: Professor of Semiconductor Physics
     company: University X
