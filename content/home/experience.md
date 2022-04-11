@@ -30,8 +30,8 @@ experience:
     location: Cambridge
     date_start: '2022-02-15'
     date_end: ''
-    description: '
-    • Characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting using bayesian neural networks.'
+    description: >-
+    * Characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting using bayesian neural networks.'
 
 
   - title: 'Research Assistant'
@@ -41,16 +41,14 @@ experience:
     location: Cambridge
     date_start: '2021-11-10'
     date_end: ''
-    description: '
-    • Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto       learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error       by human experts. 
+    description: >-
+    * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto       learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and error       by human experts. 
     
-    • Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
+    * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
     
-    • Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned         views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.'
+    * Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks learned         views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.'
     
  
-
-
 design:
   columns: '6'
 ---
