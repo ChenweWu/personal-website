@@ -64,9 +64,9 @@ email: "chenweiwu@g.harvard.edu"
 highlight_name: true
 ---
 
-Hi! I am Chenwei Wu, a first year Data Science Master's Student at Harvard. I am broadly interested in using self-supervised representation learning and multi-modal learning to advance medical solutions in a label-efficient and generalizable way. 
+Hi! I am Chenwei Wu, I am interested in using self-supervised representation learning and multi-modal learning to advance label-efficient and generalizable medical AI, and broadly machine learning for healthcare.
 
-Currently, I'm a RA in Dr. Pranav Rajpurkar's Medical AI Lab at Harvard Medical School focusing on self-supervised learning, transfer learning and multimodal learning; and a RA working in Dr. Bertrand Schneider's LIT Lab focusing on gaze estimation and multi-modal learning analytics. I am also collaborating with Dr. Weiwei Pan at DtAK Lab on characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting.
+Currently, I'm a RA in Dr. Pranav Rajpurkar's Medical AI Lab focusing on self-supervised learning, transfer learning and multimodal learning; and a RA working in Dr. Bertrand Schneider's LIT Lab focusing on gaze estimation and multi-modal learning analytics. I am also collaborating with Dr. Weiwei Pan at DtAK Lab on characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting.
 
 Previously, I worked at Credit Suisse for one year as developer & business analyst. In May 2020, I received B.S. in Data Science and B.A. in Financial Economics from University of Rochester. During my undergrad I worked with Dr. David Dodel-feder in using CV and NLP for identifying the etiology of socially impaired schizophrenia patients and worked with Dr. Huiwen Xu on using machine learning to predict risks for caregivers and nursing homes.
 
