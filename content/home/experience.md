@@ -74,6 +74,30 @@ experience:
        
         * Collected big data streams and performed deep learning time series predictions on stock trends.
    
+  - title: Undergraduate Research Assistant
+    company: University of Rochester Medical Center
+    company_url: 'https://www.urmc.rochester.edu/'
+    company_logo: ur
+    location: Rochester, NY
+    date_start: '2019-05-01'
+    date_end: '2021-08-01'
+    description: |2-
+        * Utilized unsupervised machine learning algorithms to cluster nursing homes based on the percentage of residents with dementia, depression, and serious               mental illness, and detected previously unknown patterns of resident case-mix and staffing in nursing homes. Predicted deficiency scores of nursing homes on a         longitudinal basis with supervised learning algorithms. 
+        
+        * Developed text association and pattern mining algorithms to classify cancer therapies. Combined synthetic minority oversampling Technique (SMOTE) with               supervised learning techniques to deal with unbalanced caregiver datasets and help clinicians identify potential mental and physical health risk factors for           caregivers of the elder people. Implemented Local Interpretable Model-Agnostic Explanations (LIME) to give a non-black-box explanation for ML results in a             clinical setting.
+
+  - title: Undergraduate Research Assistant
+    company: Social Cognition & Psychopathology Lab
+    company_url: 'https://labsites.rochester.edu/scplab/'
+    company_logo: ur
+    location: Rochester, NY
+    date_start: '2019-04-01'
+    date_end: '2021-08-01'
+    description: |2-
+        * Performed sentiment and topic analysis on text behavioral data in a functional neuroimaging study to better understand the relationship between brain                 functional connectivity and social anhedonia.
+        * Applied machine vision techniques including semi-supervised CNNs, optical flow and open face, on video datasets to analyze group differences in nonverbal             synchrony during social interactions among people with schizophrenia and controls. Currently studying patterns of combinations of facial actions to evaluate           the effect of oxytocin on patients' social abilities.
+   
+   
 design:
   columns: '2'
 ---
