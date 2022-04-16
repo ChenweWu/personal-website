@@ -27,10 +27,12 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Computer Vision
+    tag: Computer Vision
+  - name: NLP
+    tag: NLP
+  - name: Machine Learning
+    tag: Machine Learning
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
