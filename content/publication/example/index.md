@@ -17,6 +17,12 @@ external_link: "https://academyhealth.confex.com/academyhealth/2020arm/general/p
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
+links:
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Paper site
+  url: https://academyhealth.confex.com/academyhealth/2020arm/general/papers/viewonly.cgi?password=869456&username=38863
+
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
