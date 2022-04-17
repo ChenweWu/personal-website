@@ -31,14 +31,14 @@ publication_short: In *ACM 2020*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://academyhealth.confex.com/academyhealth/2020arm/general/papers/viewonly.cgi?password=869456&username=38863'
 
 
 # Featured image
