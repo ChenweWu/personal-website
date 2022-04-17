@@ -39,7 +39,7 @@ experience:
   - title: Research Assistant
     company: Learning, Information & Technology Lab
     company_url: 'https://lit.gse.harvard.edu/'
-    company_logo: HGSE
+    company_logo: rgb
     location: Cambridge, MA
     date_start: '2021-09-01'
     date_end: ''
@@ -53,7 +53,7 @@ experience:
   - title: Research Assistant
     company: DtaK Lab
     company_url: 'https://dtak.github.io/'
-    company_logo: SEAS
+    company_logo: bw
     location: Cambridge, MA
     date_start: '2022-02-01'
     date_end: ''
