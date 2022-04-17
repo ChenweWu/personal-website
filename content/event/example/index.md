@@ -12,7 +12,7 @@ address:
   postcode: '02138'
   country: United States
 
-summary: A talk hosted by the Rajpurkar Lab at Harvard which works on developing medical AI. Chenwei Wu on "Docker for ML Practitioners"
+summary: A talk hosted by the Rajpurkar Lab at Harvard which works on developing medical AI. Chenwei Wu on Docker for ML Practitioners
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
