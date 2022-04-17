@@ -17,8 +17,8 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-01-22T15:00:00Z'
+date_end: '2022-01-22T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,10 +35,14 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Youtube
+  url: https://youtu.be/Rty3CeFC8co
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Slides
+  url: https://docs.google.com/presentation/d/1PHtEQ825a9gV7tRNWVVao-pcgE7LZJqmJcmgltD_oWo/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
