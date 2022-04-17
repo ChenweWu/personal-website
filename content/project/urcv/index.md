@@ -1,24 +1,20 @@
 ---
-title: Generative Models for Self-supervised Learning Augmentations in ECG diagnosis
-summary: Develop viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto-learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for contrastive learning tasks, so as to reduce the rigorous trial and error by human experts.
+title: Supervised Learning for Cancer Caregiver Risk Prediction
+summary: My undergraduate capstone project -- Developed text association and pattern mining algorithms to classify cancer therapies. Combined synthetic minority oversampling Technique (SMOTE) with supervised learning techniques to deal with unbalanced caregiver datasets and help clinicians identify potential mental and physical health risk factors for caregivers of the elder people. Implemented Local Interpretable Model-Agnostic Explanations (LIME) to give a non-black-box explanation for ML results in a clinical setting
 tags:
-- Computer Vision
+- Machine Learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ChenweWu/viewmaker_simclr"
+external_link: "https://github.com/ChenweWu/Caregiver-Project-II"
 
 
 links:
-- icon: file-powerpoint
-  icon_pack: fas
-  name: Slides
-  url: https://docs.google.com/presentation/d/1FmiifZAHM-qzGbo9wlpMdU76t57QucBp2Cls1FOJ1fM/edit?usp=sharing
-  
+
 - icon: github-alt
   icon_pack: fab
   name: Code
-  url: https://github.com/ChenweWu/viewmaker_simclr
+  url: https://github.com/ChenweWu/Caregiver-Project-II
   
 url_code: ""
 url_pdf: ""
