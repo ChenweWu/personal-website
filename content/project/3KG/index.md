@@ -1,24 +1,21 @@
 ---
-title: Generative Models for Self-supervised Learning Augmentations in ECG diagnosis
-summary: Develop viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially auto-learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for contrastive learning tasks, so as to reduce the rigorous trial and error by human experts.
+title: Undergraduate Computer Vision Project Combo
+summary: Cool projects I did in undergrad including : Multi-Label Actor-Action Classification, DCF tracker, Shoeprint detector and image captioning.
 tags:
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/ChenweWu/viewmaker_simclr"
+external_link: "https://github.com/ChenweWu/Computer-Vision--UR"
 
 
 links:
-- icon: file-powerpoint
-  icon_pack: fas
-  name: Slides
-  url: https://docs.google.com/presentation/d/1FmiifZAHM-qzGbo9wlpMdU76t57QucBp2Cls1FOJ1fM/edit?usp=sharing
+
   
 - icon: github-alt
   icon_pack: fab
   name: Code
-  url: https://github.com/ChenweWu/viewmaker_simclr
+  url: https://github.com/ChenweWu/Computer-Vision--UR
   
 url_code: ""
 url_pdf: ""
