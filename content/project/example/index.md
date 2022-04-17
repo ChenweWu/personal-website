@@ -8,15 +8,12 @@ date: "2016-04-27T00:00:00Z"
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
-image:
-  caption: Photo by rawpixel on Unsplash
-  focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Slides
+  url: https://docs.google.com/presentation/d/1FmiifZAHM-qzGbo9wlpMdU76t57QucBp2Cls1FOJ1fM/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
