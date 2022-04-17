@@ -14,6 +14,12 @@ links:
   icon_pack: fas
   name: Slides
   url: https://docs.google.com/presentation/d/1FmiifZAHM-qzGbo9wlpMdU76t57QucBp2Cls1FOJ1fM/edit?usp=sharing
+  
+- icon: github-alt
+  icon_pack: fab
+  name: Code
+  url: https://github.com/ChenweWu/viewmaker_simclr
+  
 url_code: ""
 url_pdf: ""
 url_slides: ""
