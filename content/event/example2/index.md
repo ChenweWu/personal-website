@@ -1,8 +1,8 @@
 ---
-title: Docker for ML Practitioners
+title: Talk on Ensemble of Averages
 
 event: Zoom Conference
-event_url: https://youtu.be/Rty3CeFC8co
+event_url: https://docs.google.com/presentation/d/1FfUsEoKTkWoO31GGvPwhlvsAkJ_dGrFh-YvUxxfN4Ps/edit?usp=sharing
 
 location: Harvard Medical AI Lab
 address:
@@ -12,13 +12,13 @@ address:
   postcode: '02138'
   country: United States
 
-summary: Chenwei Wu giving a skill-building talk on Docker for ML Practitioners.
+summary: Chenwei Wu giving a paper sharing talk on Ensemble of Averages.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-01-22T15:00:00Z'
-date_end: '2022-01-22T16:00:00Z'
+date: '2022-03-10T15:00:00Z'
+date_end: '2022-03-10T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,14 +35,11 @@ image:
   focal_point: Right
 
 links:
-- icon: youtube
-  icon_pack: fab
-  name: Youtube
-  url: https://youtu.be/Rty3CeFC8co
+
 - icon: file-powerpoint
   icon_pack: fas
   name: Slides
-  url: https://docs.google.com/presentation/d/1PHtEQ825a9gV7tRNWVVao-pcgE7LZJqmJcmgltD_oWo/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1FfUsEoKTkWoO31GGvPwhlvsAkJ_dGrFh-YvUxxfN4Ps/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
