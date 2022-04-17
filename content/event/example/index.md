@@ -1,19 +1,19 @@
 ---
-title: Example Talk
+title: Docker for ML Practitioners
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: Zoom Conference
+event_url: https://youtu.be/Rty3CeFC8co
 
-location: Wowchemy HQ
+location: Harvard Medical AI Lab
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: Countway Library
+  city: Cambridge
+  region: MA
+  postcode: '02138'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Chenwei Wu giving a skill-building talk on Docker for ML Practitioners.
+
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
