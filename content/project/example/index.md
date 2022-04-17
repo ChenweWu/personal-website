@@ -1,6 +1,6 @@
 ---
 title: Viewmaker for ECGs
-summary: Using viewmaker networks (generative models with stochastic boundaries)to adversarially auto-learn and generate augmentations on 12-lead ECG data for Self-supervised learning
+summary: Using viewmaker (generative models with stochastic boundaries)to adversarially auto-learn augmentations on 12-lead ECG data for Self-supervised learning
 tags:
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
