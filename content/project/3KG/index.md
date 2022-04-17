@@ -1,6 +1,6 @@
 ---
 title: Undergraduate Computer Vision Project Combo
-summary: Cool projects I did in undergrad including : Multi-Label Actor-Action Classification, DCF tracker, Shoeprint detector and image captioning.
+summary: Cool projects I did in undergrad including -- Multi-Label Actor-Action Classification, DCF tracker, Shoeprint detector and image captioning.
 tags:
 - Computer Vision
 date: "2016-04-27T00:00:00Z"
