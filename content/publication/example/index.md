@@ -38,7 +38,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://academyhealth.confex.com/academyhealth/2020arm/general/papers/viewonly.cgi?password=869456&username=38863'
+
 
 
 # Featured image
