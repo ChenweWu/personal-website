@@ -1,8 +1,8 @@
 ---
-title: Talk on Ensemble of Averages
+title: Talk on Model Soup
 
 event: Zoom Conference
-event_url: https://docs.google.com/presentation/d/1FfUsEoKTkWoO31GGvPwhlvsAkJ_dGrFh-YvUxxfN4Ps/edit?usp=sharing
+event_url: https://docs.google.com/presentation/d/1W3k3zQjqEbQo6iRMqj5ZzjZYjCRtqCDaG87R2vBbsPQ/edit?usp=sharing
 
 location: Harvard Medical AI Lab
 address:
@@ -12,13 +12,13 @@ address:
   postcode: '02138'
   country: United States
 
-summary: Chenwei Wu giving a paper sharing talk on Ensemble of Averages.
+summary: Chenwei Wu giving a paper sharing talk on Model Soup.
 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-10T15:00:00Z'
-date_end: '2022-03-10T16:00:00Z'
+date: '2022-04-13T15:00:00Z'
+date_end: '2022-04-13T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -39,7 +39,7 @@ links:
 - icon: file-powerpoint
   icon_pack: fas
   name: Slides
-  url: https://docs.google.com/presentation/d/1FfUsEoKTkWoO31GGvPwhlvsAkJ_dGrFh-YvUxxfN4Ps/edit?usp=sharing
+  url: https://docs.google.com/presentation/d/1W3k3zQjqEbQo6iRMqj5ZzjZYjCRtqCDaG87R2vBbsPQ/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
