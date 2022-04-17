@@ -1,24 +1,24 @@
 ---
-title: Example Talk
+title: Docker for ML Practitioners
 
-event: Wowchemy Conference
+event: Zoom Conference
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: HMS Medical AI Lab
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: Countway Library
+  city: Cambridge
+  region: MA
+  postcode: '02138'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: A talk hosted by the Rajpurkar Lab at Harvard which works on developing medical AI. Chenwei Wu on "Docker for ML Practitioners"
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2022-01-22T15:00:00Z'
+date_end: '2022-01-022T16:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,10 +35,14 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: youtube
   icon_pack: fab
-  name: Follow
-  url: https://twitter.com/georgecushen
+  name: Youtube
+  url: https://youtu.be/Rty3CeFC8co
+- icon: file-powerpoint
+  icon_pack: fas
+  name: Slides
+  url: https://docs.google.com/presentation/d/1PHtEQ825a9gV7tRNWVVao-pcgE7LZJqmJcmgltD_oWo/edit?usp=sharing
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -59,15 +63,3 @@ slides: example
 projects:
 - example
 ---
-
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
