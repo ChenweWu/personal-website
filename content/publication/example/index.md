@@ -13,7 +13,7 @@ authors:
 
 date: "2020-07-01T00:00:00Z"
 doi: ""
-
+external_link: "https://academyhealth.confex.com/academyhealth/2020arm/general/papers/viewonly.cgi?password=869456&username=38863"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
@@ -63,12 +63,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
