@@ -9,6 +9,8 @@ authors:
 - Abhishek Saxena 1
 - Stephanie Reda 1
 - Chenwei Wu 2
+- ..
+- David Dodell-Feder
 
 
 date: "2022-11-04T00:00:00Z"
@@ -33,7 +35,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *Nature Schizophrenia 2022*
-publication_short: In *Nature*
+publication_short: In *Nature Schizophrenia*
 
 
 tags: []
