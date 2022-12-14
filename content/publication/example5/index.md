@@ -1,26 +1,28 @@
 ---
-title: "Using Optical Flow to Quantify Movement Differences in Responses to Emotional Stimuli Among People with Schizophrenia and Controls"
+title: "Interpretable Multimodal Deep Learning to Predict Breast Cancer Stage"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Lisa Lin
-- Bradley E
-- admin
+- Tong Ding 1
+- Chenwei Wu 1
+- Sharon Jiang 1
+- Hannah Bibby 1
+- Charlie Lu 2
 
 
-date: "2020-07-01T00:00:00Z"
+date: "2022-12-10T00:00:00Z"
 doi: ""
-external_link: "https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268"
+external_link: "https://github.com/ChenweWu/personal-website/raw/master/static/uploads/IEEE.pdf"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-12-10T00:00:00Z"
 
 links:
 - icon: file-powerpoint
   icon_pack: fas
   name: paper link
-  url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
+  url: https://github.com/ChenweWu/personal-website/raw/master/static/uploads/IEEE.pdf
 #
 
 # Publication type.
@@ -30,8 +32,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Cognitive Neuroscience Society 2020*
-publication_short: In *CNS 2020*
+publication: Submitting to *IEEE Transactions on Medical Imaging*
+publication_short: Submitting to *IEEE*
 
 
 tags: []

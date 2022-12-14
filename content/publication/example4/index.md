@@ -8,19 +8,22 @@ authors:
 - Chenwei Wu 1
 - Kathryn Wantlin 1
 - Mars Huang 1
+- ..
+- Alex Tamkin
+- Pranav Rajpurkar
 
 
-date: "2020-07-01T00:00:00Z"
+date: "2022-11-10T00:00:00Z"
 doi: ""
-external_link: "https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268"
+external_link: "https://github.com/ChenweWu/personal-website/raw/master/static/uploads/BenchMD.pdf"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-10T00:00:00Z"
 
 links:
 - icon: file-powerpoint
   icon_pack: fas
   name: paper link
-  url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
+  url: https://github.com/ChenweWu/personal-website/raw/master/static/uploads/BenchMD.pdf
 #
 
 # Publication type.
@@ -30,8 +33,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Cognitive Neuroscience Society 2020*
-publication_short: In *CNS 2020*
+publication: Submitted to *CVPR 2023*
+publication_short: Submitted to *CVPR 2023*
 
 
 tags: []

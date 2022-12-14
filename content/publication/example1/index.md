@@ -8,6 +8,8 @@ authors:
 - Bridget Shovestful 1
 - Emma Dudek 1
 - Chenwei Wu 2
+- ..
+- David Dodell-Feder
 
 
 date: "2020-07-01T00:00:00Z"

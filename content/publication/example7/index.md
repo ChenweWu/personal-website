@@ -1,26 +1,24 @@
 ---
-title: "Using Optical Flow to Quantify Movement Differences in Responses to Emotional Stimuli Among People with Schizophrenia and Controls"
+title: "Sensor-based Gaze and Pose Tracking Analysis of Student Group Behavior in the Makerspace"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Lisa Lin
-- Bradley E
-- admin
+- Edwin Cheng 1
+- Chenwei Wu 1
+- Chelsea Chen 2
+- Chris Chi 3
+- Bertrand Schneider
 
 
-date: "2020-07-01T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
-external_link: "https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268"
+external_link: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-12-01T00:00:00Z"
 
 links:
-- icon: file-powerpoint
-  icon_pack: fas
-  name: paper link
-  url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
 #
 
 # Publication type.
@@ -30,8 +28,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Cognitive Neuroscience Society 2020*
-publication_short: In *CNS 2020*
+publication: In preparation for *CSCW 2023*
+publication_short: In preparation for *CSCW 2023*
 
 
 tags: []
