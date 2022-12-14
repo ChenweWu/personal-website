@@ -2,7 +2,7 @@
 title: Talk on Ensemble of Averages
 
 event: Zoom Conference
-event_url: https://docs.google.com/presentation/d/1W3k3zQjqEbQo6iRMqj5ZzjZYjCRtqCDaG87R2vBbsPQ/edit?usp=sharing
+event_url: https://www.youtube.com/watch?v=TX67SkbmCwo&feature=youtu.be
 
 location: Harvard Medical AI Lab
 address:
@@ -35,7 +35,10 @@ image:
   focal_point: Right
 
 links:
-
+- icon: youtube
+  icon_pack: fab
+  name: Youtube
+  url: https://www.youtube.com/watch?v=TX67SkbmCwo
 - icon: file-powerpoint
   icon_pack: fas
   name: Slides

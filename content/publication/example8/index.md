@@ -1,26 +1,27 @@
 ---
-title: "Does functional connectivity within the DMN predict individual differences in social pleasure in schizophrenia?"
+title: "Using Optical Flow to Quantify Movement Differences in Responses to Emotional Stimuli Among People with Schizophrenia and Controls"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Bridget Shovestful 1
-- Emma Dudek 1
-- Chenwei Wu 2
+- Lisa Lin
+- Bradley E
+- admin
 
 
 date: "2020-07-01T00:00:00Z"
 doi: ""
-external_link: "https://www.researchgate.net/publication/336316178_Does_the_DMN_Predict_Differences_in_Anticipatory_and_Consummatory_Pleasure"
+external_link: "https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
 
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: Paper site
-  url: https://www.researchgate.net/publication/336316178_Does_the_DMN_Predict_Differences_in_Anticipatory_and_Consummatory_Pleasure
+  name: paper link
+  url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
+#
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +30,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Society for Research in Psychopathology 2019, Cognitive Neuroscience Society 2020*
-publication_short: In *SRP 2019, CNS 2020*
+publication: In *Cognitive Neuroscience Society 2020*
+publication_short: In *CNS 2020*
 
 
 tags: []

@@ -1,26 +1,29 @@
 ---
-title: "Does functional connectivity within the DMN predict individual differences in social pleasure in schizophrenia?"
+title: "Social affective forecasting and social anhedonia in schizophrenia-spectrum disorders: a daily diary study"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Bridget Shovestful 1
-- Emma Dudek 1
+- Bridget Shovestul 1
+- Abhishek Saxena 1
+- Stephanie Reda 1
 - Chenwei Wu 2
 
 
-date: "2020-07-01T00:00:00Z"
+date: "2022-11-04T00:00:00Z"
 doi: ""
-external_link: "https://www.researchgate.net/publication/336316178_Does_the_DMN_Predict_Differences_in_Anticipatory_and_Consummatory_Pleasure"
+external_link: "https://www.nature.com/articles/s41537-022-00310-3"
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-11-04T00:00:00Z"
 
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: Paper site
-  url: https://www.researchgate.net/publication/336316178_Does_the_DMN_Predict_Differences_in_Anticipatory_and_Consummatory_Pleasure
+  name: paper link
+  url: https://www.nature.com/articles/s41537-022-00310-3
+
+#
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -29,8 +32,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Society for Research in Psychopathology 2019, Cognitive Neuroscience Society 2020*
-publication_short: In *SRP 2019, CNS 2020*
+publication: In *Nature Schizophrenia 2022*
+publication_short: In *Nature*
 
 
 tags: []
