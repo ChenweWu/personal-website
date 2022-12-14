@@ -17,7 +17,6 @@ external_link: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-30T00:00:00Z"
 
-links:
 
 #
 
