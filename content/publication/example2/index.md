@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+  name: paper link
   url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
 
 # Publication type.
