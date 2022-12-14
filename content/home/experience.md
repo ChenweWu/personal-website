@@ -59,7 +59,7 @@ experience:
         
         --- Interpretable multimodal deep learning to predict breast cancer stage --
         
-        *Develop multi-modal models to combine attention-based multiple-instance learning on biopsy images and self-normalized networks on structured clinical metadata to predict breast cancer staging. Achieved Cohen Kappa of 71% and AUROC of 80% over 5-fold cross validation.
+        * Develop multi-modal deep learning models to combine attention-based multiple-instance learning on biopsy images and self-normalized networks on structured clinical metadata to predict breast cancer staging. Achieved Cohen Kappa of 71% and AUROC of 80% over 5-fold cross validation.
 
   - title: Research Assistant
     company: DtaK Lab
