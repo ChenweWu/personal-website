@@ -22,6 +22,26 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Graduate Student Researcher for Capstone
+    company: SANA Lab, MIT
+    company_url: ''
+    company_logo: sana
+    location: Cambridge, MA
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        --- De-identifying Retinal Fundus Images for MIMIC ---
+        
+        * Develop multi-objective algorithms to de-identify retinal fundus images without hurting down- stream disease classification performance; Integrate a new Brazilian retinal fundus dataset into MIMIC following HIPAA privacy regulations.
+        
+        * Successfully decreased the gender identification accuracy from 81% to 64%, while maintaining the diabetic retinopathy classification accuracy at 95%.
+        
+        --- Interpretable multimodal deep learning to predict breast cancer stage --
+        
+        *Develop multi-modal models to combine attention-based multiple-instance learning on biopsy images and self-normalized networks on structured clinical metadata to predict breast cancer staging. Achieved Cohen Kappa of 71% and AUROC of 80% over 5-fold cross validation.
+
+
   - title: Research Assistant
     company: Rajpurkar Lab, Harvard Medical School
     company_url: 'https://rajpurkarlab.hms.harvard.edu/'
@@ -30,17 +50,34 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-         ---Viewmakers: Learning Neural Augmentations for Electrocardiograms in Self-supervised Learning---
+         --- Viewmakers: Learning Neural Augmentations for Electrocardiograms in Self-supervised Learning ---
 
         * Developed generative diversity-viewmaker networks budgeted by stochastic L1 boundaries to adversarially learn SSL augmentations on 12-lead electrocardiogram;           Viewmakers eliminate the manual expert augmentation process and perform spurious feature suppression.
     
         * Developed self-distillation with no labels algorithms to improve performance for the CNN and ViT encoders.
     
-         ---BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors---
+         --- BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors ---
 
         * Designed BenchMD, a modality-agnostic benchmark that tests how different architectures and training techniques (SSL & SL) perform on domain-shift medical     tasks; This benchmark covers 19 publicly available datasets for 7 diverse medical modalities, ranging from 1D sensor data, 2D images, to 3D volumetric scans.
 
         * Designed three SSL techniques (Emix, Shed, Agnostic MAE) and evaluated their few-shot and zero-shot performance on OOD medical data; beat SOTA AUROC in EEG and Dermatology.
+
+
+  - title: Research Assistant
+    company: DtaK Lab
+    company_url: 'https://dtak.github.io/'
+    company_logo: bw
+    location: Cambridge, MA
+    date_start: '2022-02-01'
+    date_end: ''
+    description: |2-
+        --- A Case Study of the Challenges of Applied Machine Learning in Assisted Reproductive Technology ---
+        
+        * Proposed and implemented two improved methods to overcome the existing limitations of machine learning application in the In Virto Fertilization domain.
+        * Explored limitations in current literature including zero external validation, data leakage, heterogeneity and lack of timeliness.
+        * Developed Phase-by-phase model to provide interpretable and progressive assistance for clinicians at different IVF stages, and developed Subgroup model to cope with data heterogeneity.
+        * Collaborated with clinicians to outline a standardized data selection, preprocessing and modeling pipeline.
+        * Used mixed effects models and mixtures of regressions to interpret predictors contributing to successful pregnancies and live births.
         
   - title: Research Assistant
     company: Learning, Information & Technology Lab
@@ -50,22 +87,15 @@ experience:
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
-        * Develop real time 3D gaze detection (Gaze360) and facial recognition algorithms via Pytorch for Harvard Makerspace, reconstruct gaze predictions in a 3D             space, and integrate the tracking system into the Multimodal learning analytics cloud data pipeline
     
-        * Perform 3D lab scence reconstruction along with gaze and pose data into a simulated 3D point clouds environment.
+        --- Multimodal Learning Analytics (MMLA) for Makerspaces ---
     
-        * Collect data of student behavior in Makerspace lab sessions by leveraging the Multimodal learning analytics pipeline, and perform analysis to understand             social learning aspects like collaboration and student attention.
+        * Developed computer vision 3D gaze detection and facial segmentation pipelines for student collaborative learning behaviors in the Harvard Makerspace using Pytorch.
+    
+        * Performed gaze and pose data re-projections into the 3D simulated lab space to generate better visualizations.
+    
+        * Collect and analyze student behavior data in Makerspace by leveraging multimodal pipelines to understand social learning aspects like student collaboration and self-efficacy.
         
-  - title: Research Assistant
-    company: DtaK Lab
-    company_url: 'https://dtak.github.io/'
-    company_logo: bw
-    location: Cambridge, MA
-    date_start: '2022-02-01'
-    date_end: ''
-    description: |2-
-        * Quantify the data heterogeneity and characterize the uncertainty in large, heterogeneous data collected by Boston IVF Clinic using bayesian machine learning         networks.
- 
   - title: Analyst
     company: Credit Suisse
     company_url: 'https://www.credit-suisse.com/us/en.html'
