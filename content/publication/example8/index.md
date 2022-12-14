@@ -8,7 +8,7 @@ authors:
 - Chenwei Wu 1
 - Emil Gilkes 1
 - Jiheon Choi 1
-- ..
+- '..'
 - Weiwei Pan
 - Luis Nakayama
 - Leo Celi

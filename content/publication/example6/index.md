@@ -7,7 +7,7 @@ title: "A Case Study of the Challenges of Applied Machine Learning in Assisted R
 authors:
 - Chenwei Wu 1
 - Molly Liu 1
-- ..
+- '..'
 - Weiwei Pan
 
 
