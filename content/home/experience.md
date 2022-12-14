@@ -30,13 +30,13 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-        * ---Viewmakers: Learning Neural Augmentations for Electrocardiograms in Self-supervised Learning---
+         ---Viewmakers: Learning Neural Augmentations for Electrocardiograms in Self-supervised Learning---
 
         * Developed generative diversity-viewmaker networks budgeted by stochastic L1 boundaries to adversarially learn SSL augmentations on 12-lead electrocardiogram;           Viewmakers eliminate the manual expert augmentation process and perform spurious feature suppression.
     
         * Developed self-distillation with no labels algorithms to improve performance for the CNN and ViT encoders.
     
-        * ---BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors---
+         ---BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors---
 
         * Designed BenchMD, a modality-agnostic benchmark that tests how different architectures and training techniques (SSL & SL) perform on domain-shift medical     tasks; This benchmark covers 19 publicly available datasets for 7 diverse medical modalities, ranging from 1D sensor data, 2D images, to 3D volumetric scans.
 
