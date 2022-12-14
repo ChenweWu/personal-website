@@ -14,14 +14,14 @@ organizations:
   url: https://gsas.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests include machine learning, computer vision, self-supervised learning and my research spans a variety of healthcare and human-centered applications.
+bio: My interests include medical machine learning, computer vision, self-supervised learning and my research spans a variety of healthcare, learning sciences and other human-centered applications.
 
 # Interests to show in About widget
 interests:
 - Machine Learning 
 - Self-Supervised Learning
 - Computer Vision
-- Heterogeneous Domain Generalization
+- Domain Generalization
 
 # Education to show in About widget
 education:
@@ -66,8 +66,8 @@ highlight_name: true
 
 Hi! I am Chenwei Wu, I am interested in using self-supervised representation learning and multi-modal learning to advance label-efficient and generalizable medical AI, and broadly machine learning for healthcare.
 
-Currently, I'm a RA in Dr. Pranav Rajpurkar's Medical AI Lab focusing on self-supervised learning, transfer learning and multimodal learning; and a RA working in Dr. Bertrand Schneider's LIT Lab focusing on gaze estimation and multi-modal learning analytics. I am also collaborating with Dr. Weiwei Pan at DtAK Lab on characterizing the uncertainty in large, heterogeneous data in a In vitro fertilization risk estimation setting.
+Currently, I'm a Data Science masters student at Harvard, with a GPA of 4/4. I am a RA in Dr. Pranav Rajpurkar's Medical AI Lab focusing on self-supervised learning, transfer learning and multimodal learning; and a RA working in Dr. Bertrand Schneider's LIT Lab focusing on gaze estimation and multi-modal learning analytics. I am also collaborating with Dr. Weiwei Pan at DtAK Lab on characterizing the uncertainty of machine learning in large, heterogeneous data in a In vitro fertilization risk estimation setting. Recently, I started working with Dr. Leo Celi at MIT SANA Lab, to work on multi-modal deep learning for breast cancer staging and de-identification of retinal scans.
 
-Previously, I worked at Credit Suisse for one year as developer & business analyst. In May 2020, I received B.S. in Data Science and B.A. in Financial Economics from University of Rochester. During my undergrad I worked with Dr. David Dodel-feder in using CV and NLP for identifying the etiology of socially impaired schizophrenia patients and worked with Dr. Huiwen Xu on using machine learning to predict risks for caregivers and nursing homes.
+Previously, I worked at Credit Suisse for one year as developer & business analyst. In May 2020, I received B.S. in Data Science with highest distinctions and B.A. in Financial Economics with distinctions from University of Rochester. I was department top 3 and had a GPA of 3.92/4. During my undergrad I worked with Dr. David Dodel-feder in using CV and NLP for identifying the etiology of socially impaired schizophrenia patients and worked with Dr. Huiwen Xu on using machine learning to predict risks for caregivers and nursing homes.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
