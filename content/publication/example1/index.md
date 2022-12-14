@@ -8,7 +8,7 @@ authors:
 - Bridget Shovestful 1
 - Emma Dudek 1
 - Chenwei Wu 2
-- '..'
+- Others
 - David Dodell-Feder
 
 
