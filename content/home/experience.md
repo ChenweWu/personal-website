@@ -30,11 +30,17 @@ experience:
     date_start: '2021-11-01'
     date_end: ''
     description: |2-
-        * Develop diversity viewmaker networks, which are generative models with stochastic boundaries for data augmentations, via Pytorch Lightning, to adversarially         auto learn and generate augmentations on 12-lead electrocardiogram (ECG) sensor data for self-supervised learning tasks, so as to reduce the rigorous trial and         error by human experts. 
+        * ---Viewmakers: Learning Neural Augmentations for Electrocardiograms in Self-supervised Learning---
+
+        * Developed generative diversity-viewmaker networks budgeted by stochastic L1 boundaries to adversarially learn SSL augmentations on 12-lead electrocardiogram;           Viewmakers eliminate the manual expert augmentation process and perform spurious feature suppression.
     
-        * Develop self-distillation with no labels algorithms for 12-lead ECG data using Convolutional Neural Networks and Vision Transformers. 
+        * Developed self-distillation with no labels algorithms to improve performance for the CNN and ViT encoders.
     
-        * Investigate and compare the performance of viewmaker networks to those of other previous contrastive methods, in particular whether viewmaker networks                 learned views that are medically sensible, and whether they are more robust to corruptions commonly observed in ECG data collection settings.
+        * ---BenchMD: A Benchmark for Modality-Agnostic Learning on Medical Images and Sensors---
+
+        * Designed BenchMD, a modality-agnostic benchmark that tests how different architectures and training techniques (SSL & SL) perform on domain-shift medical     tasks; This benchmark covers 19 publicly available datasets for 7 diverse medical modalities, ranging from 1D sensor data, 2D images, to 3D volumetric scans.
+
+        * Designed three SSL techniques (Emix, Shed, Agnostic MAE) and evaluated their few-shot and zero-shot performance on OOD medical data; beat SOTA AUROC in EEG and Dermatology.
         
   - title: Research Assistant
     company: Learning, Information & Technology Lab
