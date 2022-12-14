@@ -20,7 +20,8 @@ links:
 - icon: file-powerpoint
   icon_pack: fas
   name: paper link
-  url: https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
+  url: https://github.com/ChenweWu/personal-website/raw/master/static/uploads/resume.pdf
+#https://www.brainlatam.com/blog/cns-2020-cognitive-neuroscience-society-poster-session-c1-c69-1268
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
