@@ -23,25 +23,6 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
 
-  - title: Graduate Student Researcher for Capstone
-    company: SANA Lab, MIT
-    company_url: ''
-    company_logo: sana
-    location: Cambridge, MA
-    date_start: '2022-09-01'
-    date_end: ''
-    description: |2-
-        --- De-identifying Retinal Fundus Images for MIMIC ---
-        
-        * Develop multi-objective algorithms to de-identify retinal fundus images without hurting down- stream disease classification performance; Integrate a new Brazilian retinal fundus dataset into MIMIC following HIPAA privacy regulations.
-        
-        * Successfully decreased the gender identification accuracy from 81% to 64%, while maintaining the diabetic retinopathy classification accuracy at 95%.
-        
-        --- Interpretable multimodal deep learning to predict breast cancer stage --
-        
-        *Develop multi-modal models to combine attention-based multiple-instance learning on biopsy images and self-normalized networks on structured clinical metadata to predict breast cancer staging. Achieved Cohen Kappa of 71% and AUROC of 80% over 5-fold cross validation.
-
-
   - title: Research Assistant
     company: Rajpurkar Lab, Harvard Medical School
     company_url: 'https://rajpurkarlab.hms.harvard.edu/'
@@ -62,6 +43,23 @@ experience:
 
         * Designed three SSL techniques (Emix, Shed, Agnostic MAE) and evaluated their few-shot and zero-shot performance on OOD medical data; beat SOTA AUROC in EEG and Dermatology.
 
+  - title: Graduate Student Researcher for Capstone
+    company: SANA Lab, MIT
+    company_url: ''
+    company_logo: sana
+    location: Cambridge, MA
+    date_start: '2022-09-01'
+    date_end: ''
+    description: |2-
+        --- De-identifying Retinal Fundus Images for MIMIC ---
+        
+        * Develop multi-objective algorithms to de-identify retinal fundus images without hurting down- stream disease classification performance; Integrate a new Brazilian retinal fundus dataset into MIMIC following HIPAA privacy regulations.
+        
+        * Successfully decreased the gender identification accuracy from 81% to 64%, while maintaining the diabetic retinopathy classification accuracy at 95%.
+        
+        --- Interpretable multimodal deep learning to predict breast cancer stage --
+        
+        *Develop multi-modal models to combine attention-based multiple-instance learning on biopsy images and self-normalized networks on structured clinical metadata to predict breast cancer staging. Achieved Cohen Kappa of 71% and AUROC of 80% over 5-fold cross validation.
 
   - title: Research Assistant
     company: DtaK Lab
