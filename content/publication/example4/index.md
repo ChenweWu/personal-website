@@ -8,7 +8,7 @@ authors:
 - Chenwei Wu 1
 - Kathryn Wantlin 1
 - Mars Huang 1
-- ..
+- '..'
 - Alex Tamkin
 - Pranav Rajpurkar
 

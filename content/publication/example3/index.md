@@ -9,7 +9,7 @@ authors:
 - Abhishek Saxena 1
 - Stephanie Reda 1
 - Chenwei Wu 2
-- ..
+- '..'
 - David Dodell-Feder
 
 

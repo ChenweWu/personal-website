@@ -8,7 +8,7 @@ authors:
 - Lisa Lin 1
 - Bradley E 2
 - Chenwei Wu 3
-- ..
+- '..'
 - David Dodell-Feder
 
 
