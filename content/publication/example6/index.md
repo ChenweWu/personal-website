@@ -13,15 +13,15 @@ authors:
 
 date: "2022-10-30T00:00:00Z"
 doi: ""
-external_link: ""
+external_link: "https://github.com/ChenweWu/personal-website/raw/master/static/uploads/ivf.pdf"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-30T00:00:00Z"
 
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: Releasing Soon
-  url: ""
+  name: Link
+  url: "https://github.com/ChenweWu/personal-website/raw/master/static/uploads/ivf.pdf"
 #
 
 # Publication type.
