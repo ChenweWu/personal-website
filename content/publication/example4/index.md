@@ -33,8 +33,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *CVPR 2023*
-publication_short: Submitted to *CVPR 2023*
+publication: In Review
+publication_short: In Review
 
 
 tags: []
