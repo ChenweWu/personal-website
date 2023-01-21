@@ -15,7 +15,7 @@ authors:
 
 date: "2022-11-10T00:00:00Z"
 doi: ""
-external_link: "https://github.com/ChenweWu/personal-website/raw/master/static/uploads/BenchMD.pdf"
+external_link: ""
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-11-10T00:00:00Z"
 
