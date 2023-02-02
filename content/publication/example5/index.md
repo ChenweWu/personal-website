@@ -10,6 +10,7 @@ authors:
 - Sharon Jiang 1
 - Hannah Bibby 1
 - Charlie Lu 2
+- Senthil Nachimuthu
 
 
 date: "2022-12-10T00:00:00Z"
@@ -32,8 +33,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitting to *IEEE Transactions on Medical Imaging*
-publication_short: Submitting to *IEEE*
+publication: Submitted to *IEEE Transactions on Medical Imaging*
+publication_short: Submited to *IEEE Medical Imaging*
 
 
 tags: []
