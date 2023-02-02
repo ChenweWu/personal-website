@@ -35,8 +35,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for *Nature Communications*
-publication_short: In preparation for *Nature Communications*
+publication: Submitted to ARVO 2023, In preparation for *Nature Communications*
+publication_short: Submitted to ARVO 2023, In preparation for *Nature Communications*
 
 
 tags: []
