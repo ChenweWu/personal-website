@@ -1,15 +1,14 @@
 ---
-title: "De-identification and Obfuscation of Sensitive Attributes From Retinal Scans"
+title: "De-identification and Obfuscation of Sensitive Gender Attributes From Retinal Scans"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Chenwei Wu 1
-- Emil Gilkes 1
-- Jiheon Choi 1
-- Others
-- Weiwei Pan
+- Chenwei Wu 
+- Emil Gilkes 
+- Xiyu Yang
+- Jiheon Choi 
 - Luis Nakayama
 - Leo Celi
 
@@ -23,7 +22,7 @@ publishDate: "2022-12-01T00:00:00Z"
 links:
 - icon: file-powerpoint
   icon_pack: fas
-  name: Releasing Soon
+  name: Link
   url: ""
 
 #
@@ -35,8 +34,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to ARVO 2023, In preparation for *Nature Communications*
-publication_short: Submitted to ARVO 2023, In preparation for *Nature Communications*
+publication: Accepted to MICCAI 2023 Fairness of AI in Medical Imaging
+publication_short: Accepted to MICCAI 2023 Fairness of AI in Medical Imaging
 
 
 tags: []
