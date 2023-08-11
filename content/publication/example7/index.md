@@ -1,22 +1,20 @@
 ---
-title: "Sensor-based Gaze and Pose Tracking Analysis of Student Group Behavior in the Makerspace"
+title: "Designing New Ways of Capturing Social Learning in Makerspace using Multimodal Data Streams"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Edwin Cheng 1
-- Chenwei Wu 1
-- Chelsea Chen 2
-- Chris Chi 3
+- Edwin Cheng 
+- Chenwei Wu 
 - Bertrand Schneider
 
 
-date: "2022-12-01T00:00:00Z"
+date: "2023-12-01T00:00:00Z"
 doi: ""
 external_link: ""
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-12-01T00:00:00Z"
+publishDate: "2023-12-01T00:00:00Z"
 
 links:
 - icon: file-powerpoint
@@ -32,8 +30,8 @@ links:
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In preparation for *CSCW 2023*
-publication_short: In preparation for *CSCW 2023*
+publication: Submitted to Learning & Instruction 
+
 
 
 tags: []
